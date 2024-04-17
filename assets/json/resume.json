@@ -81,7 +81,7 @@
   "interests": [
     {
       "name": "Nature hikes",
-      "icon": "fa-tree",
+      "icon": "fa-solid fa-tag",
       "keywords": [
         "hikes",
         "nature",
@@ -110,7 +110,7 @@
       "name": "Caveman Runner",
       "summary": "An ancestral endless runner.",
       "highlights": ["Game Design", "Mobile","C#", "Prototyping"],
-      "startDate": "2011-8-26",
+      "startDate": "2011-08-26",
       "endDate": "2011-11-14",
       "url": "https://pixelryan.itch.io/caveman-runner"
     }
