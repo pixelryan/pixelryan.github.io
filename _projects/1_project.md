@@ -33,4 +33,3 @@ Start with randomly numbered balls that drop into the playfield. Your task is to
 <div class="caption">
     Merge balls by chaining 3 or more in numerical order, such as ball 1, 2, 3.
 </div>
-
