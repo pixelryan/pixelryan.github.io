@@ -21,13 +21,13 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Midnight Club 3",
+      "position": "Quality Assurance",
+      "url": "https://www.rockstargames.com/games/midnightclub3",
+      "startDate": "2003-7-04",
+      "endDate": "2005-05-26",
+      "summary": "Contributed to the successful launch of the game by discovering and thoroughly documenting bugs related to gameplay balance, graphic rendering, UI, crashes, and multiplayer functionality with a keen eye for detail.",
+      "highlights": ["QA"]
     }
   ],
   "education": [
@@ -76,18 +76,15 @@
       "language": "English",
       "fluency": "Native speaker",
       "icon": ""
-    }
+    },
   "interests": [
     {
-      "name": "Nature",
-      "icon": "fa-solid fa-tag",
+      "name": "Nature hikes",
+      "icon": "	fa fa-tree",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "hikes",
+        "nature",
+        "game design"
       ]
     }
   ]
@@ -99,6 +96,22 @@
       "startDate": "2024-03-15",
       "endDate": "2024-04-15",
       "url": "https://pixelryan.itch.io/nummerge"
+    },
+        {
+      "name": "Guess Quest",
+      "summary": "A high or low card betting game made in one day.",
+      "highlights": ["Game Design", "UI","C#", "Prototyping"],
+      "startDate": "2023-11-26",
+      "endDate": "2023-11-27",
+      "url": "https://github.com/pixelryan/Guess-Quest"
+    },
+            {
+      "name": "Caveman Runner",
+      "summary": "An ancestral endless runner.",
+      "highlights": ["Game Design", "Mobile","C#", "Prototyping"],
+      "startDate": "2011-8-26",
+      "endDate": "2011-11-14",
+      "url": "https://pixelryan.itch.io/caveman-runner"
     }
   ]
 }
