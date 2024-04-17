@@ -8,6 +8,13 @@ nav_order: 3
 display_categories: [professional, indie]
 horizontal: false
 ---
+<!-- Debugging output -->
+<div>
+  <h2>All Projects</h2>
+  {% for project in site.projects %}
+    <p>{{ project.title }} - {{ project.category }}</p>
+  {% endfor %}
+</div>
 
 <!-- pages/projects.md -->
 <div class="projects">
