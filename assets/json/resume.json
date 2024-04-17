@@ -114,6 +114,36 @@
         "Coding",
         "Scripting"
       ]
+    },
+    {
+      "name": "Game Design",
+      "level": "Master",
+      "icon": "fa-solid fa-building",
+      "keywords": [
+        "Level Design",
+        "Systems Design",
+        "Technical Design"
+      ]
+    },
+    {
+      "name": "Quality Assurance",
+      "level": "Master",
+      "icon": "fa-solid fa-eye",
+      "keywords": [
+        "User Feedback Integration",
+        "Automation",
+        "Certification and Compliance"
+      ]
+    },
+    {
+      "name": "Communication",
+      "level": "Master",
+      "icon": "fa-solid fa-comments",
+      "keywords": [
+        "Documentation",
+        "Stakeholder Communication",
+        "Training & Mentoring"
+      ]
     }
   ],
   "languages": [
