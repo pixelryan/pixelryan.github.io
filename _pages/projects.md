@@ -2,20 +2,12 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Games I have worked on professionally and ones I made myself.
 nav: true
 nav_order: 3
 display_categories: [professional, indie]
 horizontal: false
 ---
-<!-- Debugging output -->
-<div>
-  <h2>All Projects</h2>
-  {% for project in site.projects %}
-    <p>{{ project.title }} - {{ project.category }}</p>
-  {% endfor %}
-</div>
-
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
