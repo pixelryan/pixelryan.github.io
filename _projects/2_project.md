@@ -1,15 +1,14 @@
 ---
 layout: page
 title: Guess Quest
-description: a project to showcase prototyping in one day.
+description: a higher or lower guessing game
 img: assets/img/3.jpg
-importance: 2
+importance: 1
 category: indie
-giscus_comments: true
+related_publications: true
 ---
 
 Welcome to the Higher or Lower card guessing game! Test your luck by guessing if the next card in a deck will be higher or lower than the current one. Each correct guess gets a point, and if you get on a streak your score goes up by even more. Go for a high score, then try to beat that record!
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -24,7 +23,6 @@ Welcome to the Higher or Lower card guessing game! Test your luck by guessing if
         {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
 
 Tools and Technologies
 
