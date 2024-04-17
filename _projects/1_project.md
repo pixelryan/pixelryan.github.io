@@ -4,7 +4,7 @@ title: NumMerge
 description: a merging puzzle game
 img: assets/img/12.jpg
 importance: 1
-category: Indie
+category: indie
 related_publications: true
 ---
 
