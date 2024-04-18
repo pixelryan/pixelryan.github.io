@@ -4,7 +4,8 @@
     <li class="list-group-item">
       <div class="row">
         <!-- Date column -->
-        <div class="col-2 text-center" style="padding-right: 20px;"> <!-- Adjusted padding and fixed class names -->
+        <div class="col-2 text-center" style="padding-right: 20px;">
+          <!-- Adjusted padding and fixed class names -->
           {% if content.startDate %}
             {% assign startDate = content.startDate | split: '-' | slice: 0, 2 | join: '.' %}
             {% assign endDate = content.endDate | split: '-' | slice: 0, 2 | join: '.' | default: 'Present' %}
@@ -12,13 +13,12 @@
           {% else %}
             {% assign date = '' %}
           {% endif %}
-          <div class="date-badge-wrapper" style="padding-bottom: 10px;"> <!-- Added div for better control -->
+          <div class="date-badge-wrapper" style="padding-bottom: 10px;">
+            <!-- Added div for better control -->
             <span class="badge font-weight-bold bg-danger text-uppercase" style="width: 100%; display: block;">{{ date }}</span>
           </div>
           {% if content.location %}
-            <p class="location">
-              <i class="fa-solid fa-location-dot"></i> {{ content.location }}
-            </p>
+            <p class="location"><i class="fa-solid fa-location-dot"></i> {{ content.location }}</p>
           {% endif %}
         </div>
         <!-- Content column -->
