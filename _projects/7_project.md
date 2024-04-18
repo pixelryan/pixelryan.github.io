@@ -8,7 +8,6 @@ importance: 3
 category: professional
 ---
 
-
     ---
     layout: page
     title: project
