@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Guess Quest
-description: a higher or lower guessing game
+description: A higher or lower guessing game
 img: assets/img/3.jpg
-importance: 1
+importance: 2
 category: indie
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: Tropical Treats
 description: Level Design
 img: assets/img/tropicaltreats.jpg
-importance: 4
+importance: 5
 category: professional
 ---
 

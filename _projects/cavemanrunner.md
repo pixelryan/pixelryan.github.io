@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Caveman Runner
-description: Early Endless Runner for iPhone
+description: An Early Endless Runner for iPhone
 img: assets/img/cm.jpg
 importance: 3
 category: indie

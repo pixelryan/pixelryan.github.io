@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Turtle Racing
-description: Twitch Plays Game
+description: A Twitch Plays Game
 img: assets/img/turtleracing.jpg
 importance: 3
 category: indie
@@ -29,6 +29,6 @@ In the spirit of open-source collaboration, the game's codebase is freely availa
 
 <div class="row">
     <div class="col-md-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/turlteracing2.jpg" title="Turlte Racing in Action" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/turtleracing2.jpg" title="Turlte Racing in Action" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

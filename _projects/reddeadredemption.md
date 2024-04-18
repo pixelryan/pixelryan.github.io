@@ -3,7 +3,7 @@ layout: page
 title: Red Dead Redemption
 description: Technical Design
 img: assets/img/rd.jpg
-importance: 1
+importance: 3
 category: professional
 ---
 

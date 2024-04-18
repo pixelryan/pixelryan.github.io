@@ -3,7 +3,7 @@ layout: page
 title: "Perfect Swing - Golf"
 description: Project Management
 img: assets/img/ps.jpg
-importance: 4
+importance: 6
 category: professional
 ---
 
