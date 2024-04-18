@@ -19,12 +19,7 @@ My contributions to "Tropical Treats" were multifaceted and directly aligned wit
         {% include figure.liquid loading="eager" path="assets/img/tropicaltreats2.jpg" title="Level 163" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/tropicaltreats3.jpg" title="Level 194" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/tropicaltreats4.jpg" title="Level 196" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/tropicaltreats5.jpg" title="Level 194" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -32,6 +27,6 @@ I spearheaded the implementation of difficulty warnings on harder levels, a feat
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/tropicaltreats5.jpg" title="Level 555" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/tropicaltreats4.jpg" title="Level 555" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
