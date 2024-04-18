@@ -9,7 +9,7 @@ category: professional
 
 Joining the "Tropical Treats" team as a seasoned game designer from Jam City, I brought with me a wealth of expertise in crafting hit match-3 games. My arrival coincided with the finalization of the game’s launch plans, marking a critical juncture in the game's journey to market.
 
-My contributions to "Tropical Treats" were multifaceted and directly aligned with enhancing player engagement and monetization. Designing fun and challenging levels was at the core of my role, along with refining game mechanics to ensure that each swipe and match was an exercise in delight. 
+My contributions to "Tropical Treats" were multifaceted and directly aligned with enhancing player engagement and monetization. Designing fun and challenging levels was at the core of my role, along with refining game mechanics to ensure that each swipe and match was an exercise in delight.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -28,7 +28,7 @@ My contributions to "Tropical Treats" were multifaceted and directly aligned wit
     </div>
 </div>
 
- I spearheaded the implementation of difficulty warnings on harder levels, a feature that strategically improved both player retention and in-game spending. This subtle yet effective tweak exemplified how nuanced changes could have a pronounced impact on player experience and commercial performance.
+I spearheaded the implementation of difficulty warnings on harder levels, a feature that strategically improved both player retention and in-game spending. This subtle yet effective tweak exemplified how nuanced changes could have a pronounced impact on player experience and commercial performance.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
