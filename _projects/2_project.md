@@ -5,7 +5,6 @@ description: a higher or lower guessing game
 img: assets/img/3.jpg
 importance: 1
 category: indie
-related_publications: true
 ---
 
 Welcome to the Higher or Lower card guessing game! Test your luck by guessing if the next card in a deck will be higher or lower than the current one. Each correct guess gets a point, and if you get on a streak your score goes up by even more. Go for a high score, then try to beat that record!
