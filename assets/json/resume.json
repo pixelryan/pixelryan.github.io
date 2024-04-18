@@ -5,7 +5,7 @@
     "image": "",
     "email": "ryan.dormanesh@gmail.com",
     "url": "https://pixelryan.github.io",
-    "summary": "A game designer who has worked in AAA, mobile, and indie games.",
+    "summary": "Versatile and innovative game designer with extensive experience across AAA, mobile, and indie platforms. Proven track record in leading design projects, enhancing game mechanics, and driving user engagement through creative level design. Known for a detail-oriented approach to quality assurance and a deep commitment to developing enjoyable, high-quality gaming experiences.",
     "location": {
       "city": "Bonney Lake",
       "countryCode": "US",
@@ -24,7 +24,7 @@
       "name": "Midnight Club 3: Dub Edition",
       "position": "Quality Assurance",
       "url": "https://www.rockstargames.com/games/midnightclub3",
-      "startDate": "2003-7-04",
+      "startDate": "2003-07-04",
       "endDate": "2005-05-26",
       "summary": "Contributed to the successful launch of the game by discovering and thoroughly documenting bugs related to gameplay balance, graphic rendering, UI, crashes, and multiplayer functionality with a keen eye for detail.",
       "highlights": ["QA"]
@@ -72,7 +72,7 @@
       "startDate": "2019-07-01",
       "endDate": "2021-11-20",
       "summary": "Enhanced collaboration across teams, managing timelines and ensuring the delivery of the worldwide launch of a high quality Unreal powered golf simulator.",
-      "highlights": ["Projet Management"]
+      "highlights": ["Project Management"]
     }
   ],
   "education": [
