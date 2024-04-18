@@ -15,7 +15,7 @@ Welcome to "Guess Quest," the Higher or Lower card guessing game! Test your luck
     </div>
 </div>
 
-This game was created in a single day to demonstrate rapid prototyping skills, overall game design capabilities, and effective scope management. 
+This game was created in a single day to demonstrate rapid prototyping skills, overall game design capabilities, and effective scope management.
 
 <div class="caption">
     Explore the development process in a time-lapse video of the game's creation, available on the project's GitHub page.
@@ -33,6 +33,7 @@ This game was created in a single day to demonstrate rapid prototyping skills, o
 </div>
 
 ### Tools and Technologies Used
+
 - **Unity 2022.3.13f1**: Main game engine used for development.
 - **C#**: Scripting language used to define game mechanics and interactions.
 - **GitHub**: Utilized for version control and project management.

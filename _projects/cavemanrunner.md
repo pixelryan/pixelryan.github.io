@@ -2,7 +2,7 @@
 layout: page
 title: Caveman Runner
 description: Early Endless Runner for iPhone
-img: assets/img/caveman-runner.jpg
+img: assets/img/cm.jpg
 importance: 3
 category: indie
 ---
@@ -13,7 +13,7 @@ category: indie
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/caveman-runner1.jpg" title="Gameplay Screenshot" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/cavemanrunner1.jpg" title="Title Screen" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -31,6 +31,6 @@ The process of publishing to the App Store was particularly enlightening. Naviga
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/caveman-runner2.jpg" title="Caveman Runner in Action" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/cavemanrunner2.jpg" title="Caveman Runner in Action" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
