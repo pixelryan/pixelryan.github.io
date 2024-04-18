@@ -150,24 +150,21 @@
       "summary": "A puzzle game about merging balls in numerical order.",
       "highlights": ["Game Design", "UI", "C#", "Prototyping"],
       "startDate": "2024-03-15",
-      "endDate": "2024-04-15",
-      "url": "https://pixelryan.itch.io/nummerge"
+      "endDate": "2024-04-15"
     },
     {
       "name": "Guess Quest",
       "summary": "A high or low card betting game made in one day.",
       "highlights": ["Game Design", "UI", "C#", "Prototyping"],
       "startDate": "2023-11-26",
-      "endDate": "2023-11-27",
-      "url": "https://github.com/pixelryan/Guess-Quest"
+      "endDate": "2023-11-27"
     },
     {
       "name": "Caveman Runner",
       "summary": "An ancestral endless runner.",
       "highlights": ["Game Design", "Mobile", "C#", "Prototyping"],
       "startDate": "2011-08-26",
-      "endDate": "2011-11-14",
-      "url": "https://pixelryan.itch.io/caveman-runner"
+      "endDate": "2011-11-14"
     }
   ]
 }
