@@ -5,7 +5,6 @@ description: a merging puzzle game
 img: assets/img/12.jpg
 importance: 1
 category: indie
-related_publications: true
 ---
 
 Start with randomly numbered balls that drop into the playfield. Your task is to create a chain of 3 or more consecutively numbered balls. Successfully chaining them merges these balls into a single, larger one, escalating the challenge and your potential for high scores.
