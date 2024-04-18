@@ -28,7 +28,6 @@ Conducted thorough final tuning and review of designers levels to ensured reliab
     </div>
 </div>
 
-
 Streamlined repetitive design team tasks through the programming of Google Sheet formulas. 
 Developed design specifications for live event features and worked with cross discipline teams throughout development and deployment on systems that boosted KPIs and enhanced player engagement.
 
@@ -36,22 +35,4 @@ Developed design specifications for live event features and worked with cross di
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/cj6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
 </div>
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
