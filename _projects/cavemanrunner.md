@@ -12,7 +12,7 @@ category: indie
 "Caveman Runner" was one of the early pioneers in the endless runner genre, developed specifically for the iPhone and released in 2013. At a time when the App Store was still burgeoning and the term "endless runner" had not yet become commonplace, "Caveman Runner" offered iPhone users a unique and engaging gaming experience.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-md-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/cavemanrunner1.jpg" title="Title Screen" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -30,7 +30,7 @@ The process of publishing to the App Store was particularly enlightening. Naviga
 "Caveman Runner" stands as a testament to early mobile game innovation and a personal milestone in my game development career. It represents a significant step in understanding both the technical and administrative aspects of mobile game production.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-md-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/cavemanrunner2.jpg" title="Caveman Runner in Action" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
