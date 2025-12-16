@@ -16,10 +16,23 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello, I am Ryan Dormanesh, a passionate game designer based in Bonney Lake, WA. Transitioning from the rich narratives and immersive worlds of AAA titles at Rockstar San Diego to the fast-paced, analytics-driven domain of mobile gaming, I've embraced the art and science of game creation. My journey has taken me from crafting dynamic state machines for Red Dead Redemption to designing levels and live events for Match 3 games.
+## Game Designer | Live Ops Specialist | Technical Artist
 
-The move to mobile gaming opened my eyes to a different way of doing things, where data analytics merge with a business mindset to forge a 'scientific' approach to game design. This paradigm shift from purely creative endeavors to a blend of creativity and data fascinated me, leading to the strategic design of live event features and the agile delivery of content that kept millions engaged week after week.
+Hello, I'm **Ryan Dormanesh**, an experienced Game Designer based in the pacific northwest.
 
-Within this realm, I've honed my ability to listen to players, translating analytics into actionable insights that resonate with audiences worldwide. From ensuring quality experiences on large e-commerce platforms to overseeing the launch of an Unreal powered mobile golf sim, my role has evolved but my core drive remains—the pursuit of excellence in game design, shaped by the nuanced understanding of both the art and metrics that make games successful.
+My career spans over a decade, evolving from the rich, immersive worlds of **AAA console development** (Rockstar San Diego's *Red Dead Redemption*) to the **analytics-driven domain of mobile games** and live operations. This journey has given me a unique perspective, blending passionate creative storytelling with the science of data tested design.
 
-Explore this page to see games I worked on professionally and my indie projects. You can toggle between light and dark mode by clicking the icon in the navigation bar.
+I have a proven track record in **Unity 3D**, **puzzle design**, and **Agile methodologies**, having:
+
+* **Designed and launched levels and live events** for millions of daily players on global titles like *Cookie Jam* and *Perfect Swing Golf*.
+* **Honed technical design skills** from managing complex state machines for dynamic animation systems to implementing live ops quest tools in the Unity Editor.
+* **Driven key performance indicators (KPIs)** by translating player analytics into actionable insights, ensuring quality experiences, and mastering gameplay difficulty balancing.
+
+Whether it’s crafting engaging level designs or overseeing a global mobile game launch, I am driven by a nuanced understanding of both the art and the metrics that define success in gaming.
+
+---
+
+### **Next Steps**
+
+* **Explore my professional work** to see the titles I've contributed to, including my technical and design contributions.
+* **View my indie projects** for examples of my personal game development and Unity skills, including my latest puzzle game, *NumMerge*. You can toggle between light and dark mode by clicking the icon in the navigation bar.
