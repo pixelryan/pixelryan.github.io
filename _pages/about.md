@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Game Designer, Project Manager, C# Unity Developer
+subtitle: Game Designer, Unity Developer
 
 profile:
   align: right
@@ -15,8 +15,6 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
-## Game Designer | Live Ops Specialist | Technical Artist
 
 Hello, I'm **Ryan Dormanesh**, an experienced Game Designer based in the pacific northwest.
 
