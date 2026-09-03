@@ -201,6 +201,7 @@ exclude:
   - README.md
   - scripts/
   - readme_preview/
+  - assets/jupyter/
   - vendor
 keep_files:
   - CNAME
