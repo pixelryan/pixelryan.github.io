@@ -7,11 +7,10 @@ first_name: Ryan
 middle_name: M.
 last_name: Dormanesh
 email: ryan.dormanesh@gmail.com
-description:
+description: Associate Producer and QA Lead. Production, live ops, and quality from Xbox 360 launch windows to worldwide mobile.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: game-design, portfolio-website # add your own keywords or leave empty
+  Bonney Lake, WA.
+keywords: associate producer, production coordinator, qa lead, game production, live ops, seattle
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🧑🏻‍💻 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -38,7 +37,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -48,7 +47,7 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 800px
+max_width: 920px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -69,7 +68,7 @@ acm_id: # your dl.acm.org/profile/id
 blogger_url: # your blogger URL
 bluesky_url: # your bluesky URL
 dblp_url: # your DBLP profile url
-discord_id: ryan31337 # your discord id (18-digit unique numerical identifier)
+discord_id: # numeric Discord snowflake only; username is listed in contact_note
 facebook_id: # your facebook id
 flickr_id: # your flickr id
 github_username: pixelryan # your GitHub user name
@@ -106,7 +105,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  To reach me, connect with me on LinkedIn or Discord.
+  Bonney Lake, WA · ryan.dormanesh@gmail.com · LinkedIn / ryandormanesh · Discord / ryan31337
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -200,7 +199,9 @@ exclude:
   - _pages/about_einstein.md
   - purgecss.config.js
   - README.md
+  - scripts/
   - readme_preview/
+  - assets/jupyter/
   - vendor
 keep_files:
   - CNAME
@@ -402,7 +403,7 @@ third_party_libraries:
     version: "5.5.0"
   google_fonts:
     url:
-      fonts: "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons&display=swap"
+      fonts: "https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&display=swap"
   highlightjs:
     integrity:
       css:
@@ -535,7 +536,7 @@ jekyll_get_json:
 jsonresume:
   - basics
   - work
-  - education
   - projects
+  - education
   - certificates
   - skills
