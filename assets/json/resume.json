@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Ryan Dormanesh",
-    "label": "Game Designer",
+    "label": "Associate Producer / Production Coordinator / QA Lead",
     "image": "",
     "email": "ryan.dormanesh@gmail.com",
     "url": "https://pixelryan.github.io",
-    "summary": "Versatile and innovative game designer with extensive experience across AAA, mobile, and indie platforms. Proven track record in leading design projects, enhancing game mechanics, and driving user engagement through creative level design. Known for a detail-oriented approach to quality assurance and a deep commitment to developing enjoyable, high-quality gaming experiences.",
+    "summary": "Production and QA lead based in Bonney Lake, WA. Worldwide mobile launch and live ops, Xbox 360 launch-window certification, and technical design on Red Dead Redemption. Independent Unity work since 2021.",
     "location": {
       "city": "Bonney Lake",
       "countryCode": "US",
@@ -13,66 +13,132 @@
     },
     "profiles": [
       {
-        "network": "Itch.io",
-        "username": "PixelRyan",
-        "url": "https://pixelryan.itch.io/"
+        "network": "LinkedIn",
+        "username": "ryandormanesh",
+        "url": "https://www.linkedin.com/in/ryandormanesh"
       }
     ]
   },
   "work": [
     {
-      "name": "Midnight Club 3: Dub Edition",
-      "position": "Quality Assurance",
-      "url": "https://www.rockstargames.com/games/midnightclub3",
-      "startDate": "2003-07-04",
-      "endDate": "2005-05-26",
-      "summary": "Contributed to the successful launch of the game by discovering and thoroughly documenting bugs related to gameplay balance, graphic rendering, UI, crashes, and multiplayer functionality with a keen eye for detail.",
-      "highlights": ["QA"]
+      "name": "Independent",
+      "position": "Game Designer & Unity Developer",
+      "url": "/projects/",
+      "startDate": "2021-11-01",
+      "summary": "Independent game designer and Unity developer. Shipped NumMerge, Guess Quest, Turtle Racing, and other finished small games.",
+      "highlights": [
+        "NumMerge — numbered-ball merge puzzle (Arcade and Puzzle modes, leaderboards).",
+        "Guess Quest — higher-or-lower card game built in a day.",
+        "Turtle Racing — Twitch chat–driven racing experiment."
+      ]
     },
     {
-      "name": "Rockstar Presents: Table Tennis",
-      "position": "QA Lead",
-      "url": "https://www.rockstargames.com/games/tabletennis",
-      "startDate": "2005-05-26",
-      "endDate": "2006-05-24",
-      "summary": "Guided a seamless certification process with Microsoft by conducting regular assessments of their Technical Certification Requirements and providing comprehensive reports to the team throughout the development phase.",
-      "highlights": ["QA"]
-    },
-    {
-      "name": "Red Dead Redemption",
-      "position": "Ambient Design",
-      "url": "https://www.rockstargames.com/reddeadredemption",
-      "startDate": "2006-05-24",
-      "endDate": "2010-08-22",
-      "summary": "Contributed to the quality and immersive experience of Red Dead Redemption through the design and development of over 600 dynamic state machines, ensuring seamless integration of animations, sound, and special effects with the game engine.",
-      "highlights": ["Design"]
-    },
-    {
-      "name": "Cafe World",
-      "position": "Quality Engineer II",
-      "url": "https://en.wikipedia.org/wiki/Caf%C3%A9_World",
-      "startDate": "2011-03-01",
-      "endDate": "2011-11-22",
-      "summary": "Provided leadership for the quality assurance efforts on all Cafe World content releases, ensuring their seamless delivery to millions of daily active users during a critical developer transition period.",
-      "highlights": ["QAE"]
-    },
-    {
-      "name": "Cookie Jam Series",
-      "position": "Level Designer",
-      "url": "https://play.google.com/store/apps/details?id=air.com.sgn.cookiejamblast.gp",
-      "startDate": "2016-03-01",
-      "endDate": "2017-11-20",
-      "summary": "Crafted engaging game levels for Cookie Jam series, directly contributing to increased in-game purchases and player retention.",
-      "highlights": ["Design"]
-    },
-    {
-      "name": "Perfect Swing - Golf",
+      "name": "ESTsoft — Perfect Swing Golf (Unreal)",
       "position": "Assistant Project Manager",
-      "url": "https://perfectswing.playthisgame.com/en",
+      "url": "/projects/perfect-swing-golf/",
       "startDate": "2019-07-01",
-      "endDate": "2021-11-20",
-      "summary": "Enhanced collaboration across teams, managing timelines and ensuring the delivery of the worldwide launch of a high quality Unreal powered golf simulator.",
-      "highlights": ["Project Management"]
+      "endDate": "2021-11-01",
+      "summary": "Worldwide mobile launch and live ops on an Unreal golf game.",
+      "highlights": [
+        "Worldwide mobile launch, then live updates.",
+        "Stood up CS ticketing and trained representatives across time zones for 24/7 coverage.",
+        "12-language localization with translation teams and engineers.",
+        "ASO and featuring on the Apple App Store and Google Play.",
+        "Used Google Firebase to set feature priority.",
+        "Tightened QA through launch and live updates."
+      ]
+    },
+    {
+      "name": "Jam City — Cookie Jam",
+      "position": "Level Designer, Live Ops",
+      "url": "/projects/cookie-jam/",
+      "startDate": "2016-03-01",
+      "endDate": "2017-11-01",
+      "summary": "Levels and live events for millions of daily players.",
+      "highlights": [
+        "Analytics-informed difficulty and economy.",
+        "Unity editor live-ops tools.",
+        "Level tuner / final review for weekly content.",
+        "Early levels and mechanic iteration for Cookie Jam Blast."
+      ]
+    },
+    {
+      "name": "Zynga — Cafe World",
+      "position": "Quality Engineer II",
+      "url": "/projects/cafe-world/",
+      "startDate": "2011-03-01",
+      "endDate": "2011-11-01",
+      "summary": "Led QA for content releases during a developer transition, for a game with millions of DAU.",
+      "highlights": [
+        "Content-release QA while the developing team was in transition.",
+        "Quality leadership on drops that still had to ship at live scale."
+      ]
+    },
+    {
+      "name": "Rockstar San Diego — Red Dead Redemption",
+      "position": "Technical Designer (Ambient)",
+      "url": "/projects/red-dead-redemption/",
+      "startDate": "2006-05-01",
+      "endDate": "2010-08-01",
+      "summary": "Primary designer on the in-house animation state-machine tool.",
+      "highlights": [
+        "600+ state machines for player, AI, missions, animals, and NPCs.",
+        "Worked with animation programming to extend the tool.",
+        "Mentored two QA testers into design."
+      ]
+    },
+    {
+      "name": "Rockstar San Diego — Table Tennis",
+      "position": "QA Lead",
+      "url": "/projects/table-tennis/",
+      "startDate": "2005-05-01",
+      "endDate": "2006-05-01",
+      "summary": "QA Lead through a Microsoft Xbox 360 launch-window ship.",
+      "highlights": [
+        "Xbox 360 TCR through certification.",
+        "Focus-group testing.",
+        "Test automation with programmers."
+      ]
+    },
+    {
+      "name": "Rockstar San Diego — Midnight Club 3: Dub Edition",
+      "position": "QA",
+      "url": "/projects/midnight-club-3/",
+      "startDate": "2003-07-01",
+      "endDate": "2005-05-01",
+      "summary": "Quality assurance on a multiplayer-heavy racing game.",
+      "highlights": [
+        "Gameplay, rendering, UI, crashes, and multiplayer coverage."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Tropical Treats (MobilityWare)",
+      "url": "/projects/tropical-treats/",
+      "summary": "Additional credit: level design and difficulty warnings. Not a dated staff role.",
+      "highlights": [
+        "Level design.",
+        "Difficulty warnings on harder levels."
+      ]
+    },
+    {
+      "name": "NumMerge",
+      "url": "/projects/nummerge/",
+      "summary": "Independent Unity merge puzzle.",
+      "highlights": ["Design", "Unity", "C#"]
+    },
+    {
+      "name": "Guess Quest",
+      "url": "/projects/guess-quest/",
+      "summary": "Independent higher-or-lower card game, built in a day.",
+      "highlights": ["Design", "Unity", "C#"]
+    },
+    {
+      "name": "Turtle Racing",
+      "url": "/projects/turtle-racing/",
+      "summary": "Twitch Plays turtle racing experiment.",
+      "highlights": ["Design", "Unity", "Twitch"]
     }
   ],
   "education": [
@@ -81,90 +147,35 @@
       "location": "California, USA",
       "url": "https://www.ivc.edu/",
       "area": "Software Development",
-      "studyType": "AA",
+      "studyType": "A.A.",
       "startDate": "2000-01-01",
       "endDate": "2002-01-01"
-    }
-  ],
-  "awards": [
-    {
-      "title": "Company Game Jam Winner",
-      "date": "2002",
-      "awarder": "Mobilityware",
-      "url": "https://www.mobilityware.com",
-      "summary": "Game Designer on a unique game that won the company wide annnual Game Jam as voted by senior staff."
     }
   ],
   "certificates": [
     {
       "name": "Unity Developer",
       "date": "2018-01-01",
-      "issuer": "Unity 3d",
+      "issuer": "Unity",
       "url": "https://www.credly.com/badges/88b626c3-fff6-451b-bdc9-0cde2a367ab6",
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "skills": [
     {
-      "name": "C#",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": ["Unity Development", "Coding", "Scripting"]
+      "name": "Production",
+      "icon": "fa-solid fa-list-check",
+      "keywords": ["Launch planning", "Live ops", "Localization", "ASO", "Cross-discipline coordination"]
     },
     {
-      "name": "Game Design",
-      "level": "Master",
-      "icon": "fa-solid fa-building",
-      "keywords": ["Level Design", "Systems Design", "Technical Design"]
-    },
-    {
-      "name": "Quality Assurance",
-      "level": "Master",
+      "name": "Quality",
       "icon": "fa-solid fa-eye",
-      "keywords": ["User Feedback Integration", "Automation", "Certification and Compliance"]
+      "keywords": ["QA leadership", "Certification / TCR", "Content-release QA", "Focus-group testing", "Test automation"]
     },
     {
-      "name": "Communication",
-      "level": "Master",
-      "icon": "fa-solid fa-comments",
-      "keywords": ["Documentation", "Stakeholder Communication", "Training & Mentoring"]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Nature hikes",
-      "icon": "fa-solid fa-tag",
-      "keywords": ["hikes", "nature", "game design"]
-    }
-  ],
-  "independent projects": [
-    {
-      "name": "NumMerge",
-      "summary": "A puzzle game about merging balls in numerical order.",
-      "highlights": ["Game Design", "UI", "C#", "Prototyping"],
-      "startDate": "2024-03-15",
-      "endDate": "2024-04-15"
-    },
-    {
-      "name": "Guess Quest",
-      "summary": "A high or low card betting game made in one day.",
-      "highlights": ["Game Design", "UI", "C#", "Prototyping"],
-      "startDate": "2023-11-26",
-      "endDate": "2023-11-27"
-    },
-    {
-      "name": "Caveman Runner",
-      "summary": "An ancestral endless runner.",
-      "highlights": ["Game Design", "Mobile", "C#", "Prototyping"],
-      "startDate": "2011-08-26",
-      "endDate": "2011-11-14"
+      "name": "Design & tools",
+      "icon": "fa-solid fa-gamepad",
+      "keywords": ["Level design", "Technical design", "Unity editor tools", "Animation state machines"]
     }
   ]
 }

@@ -1,0 +1,206 @@
+/*******************************************************************************
+ * Portfolio overlay — hiring-manager site on top of al-folio.
+ ******************************************************************************/
+
+body {
+  font-family: "Source Sans 3", "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 1.05rem;
+  line-height: 1.65;
+  letter-spacing: 0.01em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.post-title,
+.card-title,
+.navbar-brand,
+.hero-kicker {
+  font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+  letter-spacing: -0.02em;
+}
+
+.navbar {
+  background-color: var(--global-bg-color) !important;
+  border-bottom: 1px solid var(--global-divider-color);
+
+  .navbar-brand {
+    font-size: 1.15rem;
+    letter-spacing: -0.03em;
+  }
+
+  .nav-link {
+    font-family: "Source Sans 3", "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 0.92rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+}
+
+.hero {
+  margin-bottom: 0.5rem;
+
+  .hero-kicker {
+    margin: 0 0 0.35rem;
+    font-family: "Source Sans 3", "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 0.8rem;
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--global-theme-color);
+  }
+
+  .post-title {
+    font-size: 2.4rem;
+    margin-bottom: 0.35rem;
+  }
+
+  .desc {
+    font-size: 1.15rem;
+    font-weight: 600;
+    color: var(--global-text-color);
+    margin-bottom: 0;
+  }
+}
+
+.homepage {
+  .profile .more-info {
+    font-family: "Source Sans 3", "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 0.9rem;
+    color: var(--global-text-color-light);
+  }
+
+  .credit-list {
+    margin: 1.5rem 0 2rem;
+    border-top: 1px solid var(--global-divider-color);
+  }
+
+  .credit-row {
+    display: grid;
+    grid-template-columns: 1.4fr 1fr 1.3fr auto;
+    gap: 0.75rem;
+    align-items: baseline;
+    padding: 0.85rem 0;
+    border-bottom: 1px solid var(--global-divider-color);
+    color: inherit;
+    text-decoration: none;
+
+    &:hover {
+      color: var(--global-theme-color);
+      text-decoration: none;
+
+      .credit-title {
+        color: var(--global-theme-color);
+      }
+    }
+  }
+
+  .credit-title {
+    font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+    font-weight: 650;
+    color: var(--global-text-color);
+  }
+
+  .credit-studio,
+  .credit-role,
+  .credit-dates {
+    font-size: 0.92rem;
+    color: var(--global-text-color-light);
+  }
+
+  .credit-dates {
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+  }
+
+  .home-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin: 1.25rem 0 0.5rem;
+  }
+
+  .home-actions a {
+    display: inline-block;
+    padding: 0.45rem 0.9rem;
+    border: 1px solid var(--global-theme-color);
+    border-radius: 2px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: var(--global-theme-color);
+
+    &:hover {
+      background: var(--global-theme-color);
+      color: var(--global-hover-text-color);
+      text-decoration: none;
+    }
+  }
+}
+
+.case-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 1.25rem;
+  margin: -0.75rem 0 1.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--global-divider-color);
+  font-size: 0.92rem;
+  color: var(--global-text-color-light);
+
+  strong {
+    color: var(--global-text-color);
+    font-weight: 600;
+  }
+}
+
+.projects {
+  .category {
+    font-family: "Source Sans 3", "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 0.8rem;
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--global-theme-color);
+    margin-top: 1.5rem;
+  }
+
+  .card-title {
+    text-transform: none;
+    font-size: 1.15rem;
+  }
+
+  .card-text {
+    color: var(--global-text-color-light);
+  }
+}
+
+.cv {
+  .badge.bg-danger,
+  .badge.danger-color-dark {
+    background-color: var(--global-theme-color) !important;
+    color: var(--global-hover-text-color) !important;
+  }
+}
+
+footer {
+  font-size: 0.85rem;
+}
+
+@media (max-width: 767px) {
+  .homepage .credit-row {
+    grid-template-columns: 1fr;
+    gap: 0.15rem;
+    padding: 1rem 0;
+  }
+
+  .hero .post-title {
+    font-size: 2rem;
+  }
+}
