@@ -31,4 +31,4 @@ I came to the project after Cookie Jam, while launch plans were being finished. 
     </div>
 </div>
 
-Related: [Cookie Jam]({{ '/projects/cookie-jam/' | relative_url }})
+Related: [Cookie Jam](/projects/cookie-jam/)

@@ -43,4 +43,4 @@ Cookie Jam was a live match-3 with millions of daily players. I designed levels 
 
 Live puzzle games fail in the calendar, not in the vertical slice. The work here was making sure a week of levels and events was buildable, tunable, and reviewable.
 
-Related: [Perfect Swing Golf]({{ '/projects/perfect-swing-golf/' | relative_url }}) · [Tropical Treats]({{ '/projects/tropical-treats/' | relative_url }})
+Related: [Perfect Swing Golf](/projects/perfect-swing-golf/) · [Tropical Treats](/projects/tropical-treats/)

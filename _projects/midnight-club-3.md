@@ -31,4 +31,4 @@ Cruise mode, where players could roam freely, was a favorite on the floor. It is
     </div>
 </div>
 
-Related: [Table Tennis]({{ '/projects/table-tennis/' | relative_url }}) · [Red Dead Redemption]({{ '/projects/red-dead-redemption/' | relative_url }})
+Related: [Table Tennis](/projects/table-tennis/) · [Red Dead Redemption](/projects/red-dead-redemption/)

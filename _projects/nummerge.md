@@ -33,4 +33,4 @@ This is a finished independent game, not a studio production credit. It is here 
     </div>
 </div>
 
-Privacy policy: [NumMerge privacy policy]({{ '/privacypolicy.html' | relative_url }}).
+Privacy policy: [NumMerge privacy policy](/privacypolicy.html).

@@ -94,11 +94,7 @@
       "startDate": "2005-05-01",
       "endDate": "2006-05-01",
       "summary": "QA Lead through a Microsoft Xbox 360 launch-window ship.",
-      "highlights": [
-        "Xbox 360 TCR through certification.",
-        "Focus-group testing.",
-        "Test automation with programmers."
-      ]
+      "highlights": ["Xbox 360 TCR through certification.", "Focus-group testing.", "Test automation with programmers."]
     },
     {
       "name": "Rockstar San Diego — Midnight Club 3: Dub Edition",
@@ -107,9 +103,7 @@
       "startDate": "2003-07-01",
       "endDate": "2005-05-01",
       "summary": "Quality assurance on a multiplayer-heavy racing game.",
-      "highlights": [
-        "Gameplay, rendering, UI, crashes, and multiplayer coverage."
-      ]
+      "highlights": ["Gameplay, rendering, UI, crashes, and multiplayer coverage."]
     }
   ],
   "projects": [
@@ -117,10 +111,7 @@
       "name": "Tropical Treats (MobilityWare)",
       "url": "/projects/tropical-treats/",
       "summary": "Additional credit: level design and difficulty warnings. Not a dated staff role.",
-      "highlights": [
-        "Level design.",
-        "Difficulty warnings on harder levels."
-      ]
+      "highlights": ["Level design.", "Difficulty warnings on harder levels."]
     },
     {
       "name": "NumMerge",

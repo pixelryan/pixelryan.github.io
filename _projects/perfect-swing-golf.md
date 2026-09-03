@@ -48,4 +48,4 @@ This is the production story.
 
 The job was coordination under a real ship date: support, loc, stores, analytics, and QA had to move together. I was the person connecting those threads after the build left the engineering floor.
 
-Related: [Cookie Jam]({{ '/projects/cookie-jam/' | relative_url }}) (live ops / content) · [Table Tennis]({{ '/projects/table-tennis/' | relative_url }}) (QA lead at launch)
+Related: [Cookie Jam](/projects/cookie-jam/) (live ops / content) · [Table Tennis](/projects/table-tennis/) (QA lead at launch)

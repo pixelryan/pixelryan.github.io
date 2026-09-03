@@ -43,4 +43,4 @@ I was the primary designer on the in-house animation state-machine tool. That me
 
 The production lesson is still the one I use: a tool that only a specialist can operate will not survive a content-heavy ship. Making the state machine usable, then teaching other people to work in it, was as much of the job as authoring the graphs themselves.
 
-Related: [Table Tennis]({{ '/projects/table-tennis/' | relative_url }}) · [Midnight Club 3]({{ '/projects/midnight-club-3/' | relative_url }})
+Related: [Table Tennis](/projects/table-tennis/) · [Midnight Club 3](/projects/midnight-club-3/)

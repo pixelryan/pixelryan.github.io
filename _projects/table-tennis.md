@@ -37,4 +37,4 @@ Table Tennis shipped in the Xbox 360 launch window. I was QA Lead.
 
 Launch-window certification is a production problem with a QA title. The date does not move. The kit has to pass. Someone has to keep TCR, playtests, and automation in the same plan.
 
-Related: [Cafe World]({{ '/projects/cafe-world/' | relative_url }}) · [Midnight Club 3]({{ '/projects/midnight-club-3/' | relative_url }})
+Related: [Cafe World](/projects/cafe-world/) · [Midnight Club 3](/projects/midnight-club-3/)
