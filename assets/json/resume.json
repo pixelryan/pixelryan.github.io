@@ -23,7 +23,7 @@
       "name": "Funtownarcade Games LLC",
       "position": "Founder & Game Designer",
       "url": "https://funtownarcade.com",
-      "startDate": "2026-01-01",
+      "startDate": "2026-09-01",
       "summary": "Independent studio in Washington State. Released Caveman Runner 2.0 for iPhone; developing NumMerge (planned November 2026), Treasure Drop, Every Card Counts Solitaire, and Hexa.",
       "highlights": [
         "Studio Founder",
@@ -169,15 +169,6 @@
       "endDate": "2004-01-01"
     }
   ],
-  "awards": [
-    {
-      "title": "Company Game Jam Winner",
-      "date": "2018",
-      "awarder": "MobilityWare",
-      "url": "https://www.mobilityware.com",
-      "summary": "Game Designer on a unique game that won the company wide annual Game Jam as voted by senior staff."
-    }
-  ],
   "certificates": [
     {
       "name": "GitHub Foundations",
@@ -263,7 +254,7 @@
         "iOS",
         "Live Release"
       ],
-      "startDate": "2026-01-01"
+      "startDate": "2026-09-01"
     },
     {
       "name": "NumMerge",
