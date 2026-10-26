@@ -3,7 +3,7 @@ layout: page
 title: Cookie Jam Series
 description: Level Design
 img: assets/img/cj.jpg
-importance: 4
+importance: 2
 category: professional
 ---
 

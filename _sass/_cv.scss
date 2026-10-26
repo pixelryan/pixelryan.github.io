@@ -213,3 +213,16 @@ ul.timeline li::before {
      color: var(--global-text-color);
 }
 */
+
+// Let CV date badges wrap ("2017.11 - 2019.02") instead of clipping or overlapping titles.
+.cv .list-group-item .badge {
+  white-space: normal;
+  word-break: normal;
+  overflow-wrap: normal;
+  font-size: 0.7rem;
+  line-height: 1.5;
+  padding: 0.35em 0.3em;
+  min-width: 0 !important;
+  width: 100%;
+  max-width: 90px;
+}

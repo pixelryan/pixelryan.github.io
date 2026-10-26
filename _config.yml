@@ -7,11 +7,12 @@ first_name: Ryan
 middle_name: M.
 last_name: Dormanesh
 email: ryan.dormanesh@gmail.com
-description:
+description: >
+  Ryan Dormanesh is a game designer and Unity developer in Washington State, with 20+ years in games from Rockstar's Red Dead Redemption to mobile live ops, and the founder of Funtownarcade Games.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: game-design, portfolio-website # add your own keywords or leave empty
+keywords: game designer, technical designer, level design, unity developer, live ops, funtownarcade # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🧑🏻‍💻 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 

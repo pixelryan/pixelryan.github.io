@@ -3,7 +3,7 @@ layout: page
 title: "Perfect Swing - Golf"
 description: Project Management
 img: assets/img/ps.jpg
-importance: 6
+importance: 4
 category: professional
 ---
 
@@ -13,18 +13,18 @@ During the game's critical launch phase, I meticulously managed the rollout, kee
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ps1.jpg" title="Level 4" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ps1.jpg" title="A golfer mid-swing" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ps2.jpg" title="Level 163" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ps2.jpg" title="A 1v1 player matchup" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ps3.jpg" title="Level 194" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ps3.jpg" title="Realistic golf simulation" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ps4.jpg" title="Level 196" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ps4.jpg" title="Teeing off" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -34,6 +34,6 @@ Collaborating with translation teams and engineers, I managed the implementation
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/ps5.jpg" title="Level 555" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/ps5.jpg" title="The 1v1 instant match lobby" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

@@ -3,7 +3,7 @@ layout: page
 title: Red Dead Redemption
 description: Technical Design
 img: assets/img/rd.jpg
-importance: 3
+importance: 1
 category: professional
 ---
 
@@ -13,18 +13,18 @@ Working closely with animation programmers and engineers, I facilitated necessar
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/rd1.jpg" title="Level 4" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/rd1.jpg" title="John Marston walking through a frontier town" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/rd2.jpg" title="Level 163" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/rd2.jpg" title="A rider crossing the plains at sunset" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/rd3.jpg" title="Level 194" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/rd3.jpg" title="John Marston and Bonnie MacFarlane on a porch" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/rd4.jpg" title="Level 196" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/rd4.jpg" title="A town in Mexico, seen over John Marston's shoulder" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -32,6 +32,6 @@ Furthermore, I mentored and elevated two QA team members to design roles, traini
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/rd5.jpg" title="Level 555" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/rd5.jpg" title="A multiplayer gunfight" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

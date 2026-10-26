@@ -3,7 +3,7 @@ layout: page
 title: "Rockstar Presents: Table Tennis"
 description: "QA Lead"
 img: assets/img/tt.jpg
-importance: 2
+importance: 5
 category: professional
 ---
 
@@ -11,18 +11,18 @@ As the lead QA for "Rockstar Presents: Table Tennis," I was pivotal in 'finding 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/tt1.jpg" title="Level 4" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/tt1.jpg" title="A player ready to serve" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/tt2.jpg" title="Level 163" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/tt2.jpg" title="An overhead view of a rally" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/tt3.jpg" title="Level 194" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/tt3.jpg" title="A match in progress" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/tt4.jpg" title="Level 555" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/tt4.jpg" title="A player close-up" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
