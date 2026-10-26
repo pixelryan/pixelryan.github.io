@@ -93,8 +93,8 @@
       "url": "https://www.rockstargames.com/reddeadredemption",
       "startDate": "2006-07-01",
       "endDate": "2010-08-01",
-      "summary": "Built 600+ dynamic ambient animations and AI state machines that brought the world's people and animals to life, and trained and led a team of designers on in-house tools.",
-      "highlights": ["Technical Design", "AI State Machines", "Ambient Design"]
+      "summary": "Built the game's animation state machines, 600+ in all: the player's moves and weapons, multiplayer, minigames, unique story-mission moments, and the ambient life of its people and animals. Trained and led a team of designers on in-house tools.",
+      "highlights": ["Technical Design", "State Machines", "Player & Weapons", "Multiplayer", "Ambient Design"]
     },
     {
       "name": "Rockstar San Diego \u00b7 Rockstar Presents Table Tennis",
