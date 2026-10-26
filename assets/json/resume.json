@@ -25,23 +25,14 @@
       "url": "https://funtownarcade.com",
       "startDate": "2026-09-01",
       "summary": "Independent studio in Washington State. Released Caveman Runner 2.0 for iPhone; developing NumMerge (planned November 2026), Treasure Drop, Every Card Counts Solitaire, and Hexa.",
-      "highlights": [
-        "Studio Founder",
-        "Game Design",
-        "Unity",
-        "Live Games"
-      ]
+      "highlights": ["Studio Founder", "Game Design", "Unity", "Live Games"]
     },
     {
       "name": "Freelance",
       "position": "Unity Developer & Project Lead",
       "startDate": "2021-07-01",
       "summary": "Led mobile game and interactive fitness projects end to end, from client requirements and scope through documentation, timelines, and delivery, including a polished mobile puzzle game with online features.",
-      "highlights": [
-        "Unity",
-        "Project Management",
-        "Client Work"
-      ]
+      "highlights": ["Unity", "Project Management", "Client Work"]
     },
     {
       "name": "ESTsoft Inc. \u00b7 Perfect Swing - Golf",
@@ -50,11 +41,7 @@
       "startDate": "2019-12-01",
       "endDate": "2021-07-01",
       "summary": "Ran live operations for Perfect Swing - Golf on iOS and Android, led QA for global launches, managed a remote QA team, and led App Store and Google Play submissions that earned featured placements.",
-      "highlights": [
-        "Live Ops",
-        "Project Management",
-        "QA Leadership"
-      ]
+      "highlights": ["Live Ops", "Project Management", "QA Leadership"]
     },
     {
       "name": "MobilityWare \u00b7 Tropical Treats",
@@ -63,11 +50,7 @@
       "startDate": "2017-11-01",
       "endDate": "2019-02-01",
       "summary": "Designed levels, modes, and obstacles in Unity for a match-3 puzzle game and championed seasonal events and a mission system that helped double the game's revenue. Managed a team of five.",
-      "highlights": [
-        "Level Design",
-        "Live Ops",
-        "Unity"
-      ]
+      "highlights": ["Level Design", "Live Ops", "Unity"]
     },
     {
       "name": "Jam City \u00b7 Cookie Jam Series",
@@ -76,11 +59,7 @@
       "startDate": "2016-03-01",
       "endDate": "2017-11-01",
       "summary": "Designed and tuned match-3 levels for Cookie Jam and Cookie Jam Blast, delivering weekly content to millions of players and writing specs for live event features that boosted KPIs.",
-      "highlights": [
-        "Level Design",
-        "Tuning",
-        "Live Events"
-      ]
+      "highlights": ["Level Design", "Tuning", "Live Events"]
     },
     {
       "name": "BrickLink (The LEGO Group)",
@@ -89,11 +68,7 @@
       "startDate": "2014-07-01",
       "endDate": "2016-03-01",
       "summary": "Managed quality for a global LEGO marketplace with 400,000 users and 9,000 active stores, including test plans, cross-browser and mobile testing, and Selenium automation.",
-      "highlights": [
-        "QA Management",
-        "Test Automation",
-        "eCommerce"
-      ]
+      "highlights": ["QA Management", "Test Automation", "eCommerce"]
     },
     {
       "name": "Checkpoint Studios \u00b7 AviNation",
@@ -101,11 +76,7 @@
       "startDate": "2011-11-01",
       "endDate": "2012-09-01",
       "summary": "Designed gameplay mechanics, economy, and quests for a social airport simulator, scripted mechanics in C# in Unity, and led the QA department.",
-      "highlights": [
-        "Game Design",
-        "Economy",
-        "C#"
-      ]
+      "highlights": ["Game Design", "Economy", "C#"]
     },
     {
       "name": "Zynga \u00b7 FarmVille & Caf\u00e9 World",
@@ -114,11 +85,7 @@
       "startDate": "2011-03-01",
       "endDate": "2011-11-01",
       "summary": "Led QA for all Caf\u00e9 World content releases to over 2 million daily players and managed localization testing for FarmVille. Voted \"Chef of the Week\" by the team.",
-      "highlights": [
-        "QA Leadership",
-        "Localization",
-        "Live Games"
-      ]
+      "highlights": ["QA Leadership", "Localization", "Live Games"]
     },
     {
       "name": "Rockstar San Diego \u00b7 Red Dead Redemption",
@@ -127,11 +94,7 @@
       "startDate": "2006-07-01",
       "endDate": "2010-08-01",
       "summary": "Built 600+ dynamic ambient animations and AI state machines that brought the world's people and animals to life, and trained and led a team of designers on in-house tools.",
-      "highlights": [
-        "Technical Design",
-        "AI State Machines",
-        "Ambient Design"
-      ]
+      "highlights": ["Technical Design", "AI State Machines", "Ambient Design"]
     },
     {
       "name": "Rockstar San Diego \u00b7 Rockstar Presents Table Tennis",
@@ -140,10 +103,7 @@
       "startDate": "2005-05-01",
       "endDate": "2006-07-01",
       "summary": "Directed 15 QA analysts and two remote teams, ran Microsoft certification assessments for the Xbox 360 launch, and supported focus group testing.",
-      "highlights": [
-        "QA Leadership",
-        "Certification"
-      ]
+      "highlights": ["QA Leadership", "Certification"]
     },
     {
       "name": "Rockstar San Diego \u00b7 Midnight Club 3: Dub Edition",
@@ -152,10 +112,7 @@
       "startDate": "2004-07-01",
       "endDate": "2005-05-01",
       "summary": "Found and documented gameplay, crash, and multiplayer bugs, and tracked Sony's Technical Certification Requirements through sign-off.",
-      "highlights": [
-        "QA",
-        "Certification"
-      ]
+      "highlights": ["QA", "Certification"]
     }
   ],
   "education": [
@@ -189,41 +146,25 @@
       "name": "C#",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Unity Development",
-        "Coding",
-        "Scripting"
-      ]
+      "keywords": ["Unity Development", "Coding", "Scripting"]
     },
     {
       "name": "Game Design",
       "level": "Master",
       "icon": "fa-solid fa-building",
-      "keywords": [
-        "Level Design",
-        "Systems Design",
-        "Technical Design"
-      ]
+      "keywords": ["Level Design", "Systems Design", "Technical Design"]
     },
     {
       "name": "Quality Assurance",
       "level": "Master",
       "icon": "fa-solid fa-eye",
-      "keywords": [
-        "User Feedback Integration",
-        "Automation",
-        "Certification and Compliance"
-      ]
+      "keywords": ["User Feedback Integration", "Automation", "Certification and Compliance"]
     },
     {
       "name": "Communication",
       "level": "Master",
       "icon": "fa-solid fa-comments",
-      "keywords": [
-        "Documentation",
-        "Stakeholder Communication",
-        "Training & Mentoring"
-      ]
+      "keywords": ["Documentation", "Stakeholder Communication", "Training & Mentoring"]
     }
   ],
   "languages": [
@@ -237,11 +178,7 @@
     {
       "name": "Nature hikes",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "hikes",
-        "nature",
-        "game design"
-      ]
+      "keywords": ["hikes", "nature", "game design"]
     }
   ],
   "projects": [
@@ -249,45 +186,26 @@
       "name": "Caveman Runner 2.0",
       "url": "https://apps.apple.com/app/id418102156",
       "summary": "The 2011 iPhone endless runner, rebuilt for today's iPhones with 120 Hz play and iPhone Duo support.",
-      "highlights": [
-        "Game Design",
-        "iOS",
-        "Live Release"
-      ],
+      "highlights": ["Game Design", "iOS", "Live Release"],
       "startDate": "2026-09-01"
     },
     {
       "name": "NumMerge",
       "summary": "A puzzle game about chaining numbered balls in order to merge them. Planned for the App Store and Google Play in November 2026.",
-      "highlights": [
-        "Game Design",
-        "UI",
-        "C#",
-        "Prototyping"
-      ],
+      "highlights": ["Game Design", "UI", "C#", "Prototyping"],
       "startDate": "2024-03-15"
     },
     {
       "name": "Guess Quest",
       "summary": "A high or low card betting game made in one day.",
-      "highlights": [
-        "Game Design",
-        "UI",
-        "C#",
-        "Prototyping"
-      ],
+      "highlights": ["Game Design", "UI", "C#", "Prototyping"],
       "startDate": "2023-11-26",
       "endDate": "2023-11-27"
     },
     {
       "name": "Caveman Runner (original)",
       "summary": "An early iPhone endless runner, co-developed with Tom Carroll.",
-      "highlights": [
-        "Game Design",
-        "Mobile",
-        "C#",
-        "Prototyping"
-      ],
+      "highlights": ["Game Design", "Mobile", "C#", "Prototyping"],
       "startDate": "2011-08-26",
       "endDate": "2011-11-14"
     }
