@@ -30,5 +30,5 @@ Those two worlds taught me two ways to push the limits. At Rockstar, I learned t
 
 ### Explore
 
-* **[Projects](/projects/)**: my professional work at Rockstar, Jam City, MobilityWare, and ESTsoft, plus my own games.
-* **[CV](/cv/)**: my full work history.
+* **[Projects](https://pixelryan.github.io/projects/)**: my professional work at Rockstar, Jam City, MobilityWare, and ESTsoft, plus my own games.
+* **[CV](https://pixelryan.github.io/cv/)**: my full work history.
