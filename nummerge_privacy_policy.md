@@ -1,60 +1,95 @@
-## Privacy Policy
+# NumMerge Privacy Policy
 
-Funtownarcade by Ryan built the NumMerge game as a Free game. This SERVICE is provided by Funtownarcade by Ryan at no cost and is intended for use as is.
+_The official, always-current version of this policy is at [https://funtownarcade.com/nummergeprivacy](https://funtownarcade.com/nummergeprivacy)._
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+_Last updated: October 27, 2026_
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+NumMerge is a puzzle game made by Funtownarcade Games LLC ("we", "us"). We are the controller of the information described here. This policy explains what the game collects, why, who we share it with, and the choices you have.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at NumMerge unless otherwise defined in this Privacy Policy.
+## 1. What the game collects
 
-**Information Collection and Use**
+**For every player, to run the game:**
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+- An anonymous player ID. Unity Gaming Services signs you in anonymously and creates a random ID. It is not linked to your name, email or phone number.
+- Your progress and purchases. Stars, boosters, skins, levels and the records of what you bought are saved with Unity Cloud Save, so a reinstall doesn't lose them.
+- Game settings. Unity Remote Config sends the game its current settings (for example prices and level tuning). To do this it receives your player ID, app version and basic device information.
 
-The game does use third party services that may collect information used to identify you.
+**If you are 16 or older and tap "Agree and play":**
 
-Link to privacy policy of third party service providers used by the game
+- Leaderboard scores, saved with the player name the game gives you (for example "WavySingingFlamingo"). You cannot type your own name, so no real name is shown.
+- Gameplay statistics, through GameAnalytics: levels started, won and lost, boosters used, stars earned and spent, ads watched, purchases made in the game, and session length. These come with device information: device model, operating system, language, country (estimated from your IP address), and device or advertising identifiers.
+- Install source (Android). The game reads the Google Play Install Referrer once to learn which store page or ad campaign the install came from, and records only that channel with the statistics above.
+- Personalized ads. See section 3.
 
-*   [Unity](https://unity3d.com/legal/privacy-policy)
+If you are 16 or older and tap "No thanks", leaderboards and gameplay statistics stay off. Rewarded videos are still available but are not personalized.
 
-**Log Data**
+If you tell us you are under 16, leaderboards, gameplay statistics and ads are all off. Only the anonymous player ID, Cloud Save and Remote Config described above are used.
 
-I want to inform you that whenever you use my Service, in a case of an error in the game I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the game when utilizing my Service, the time and date of your use of the Service, and other statistics.
+We never ask for your name, email address, phone number, contacts, photos or precise location.
 
-**Cookies**
+## 2. Purchases
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+Purchases are made through the Apple App Store or Google Play. Apple or Google handles your payment details; we never see them. We receive a purchase receipt (product, order ID, date and price) so we can deliver what you bought and restore it later.
 
-This Service does not use these “cookies” explicitly. However, the game may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+## 3. Ads
 
-**Service Providers**
+NumMerge shows only rewarded videos that you choose to watch, for example for extra moves. We use LevelPlay (Unity's ad mediation, formerly ironSource) to choose an ad from ironSource Ads and Unity Ads. To show an ad these partners receive: your advertising ID (Google Advertising ID on Android; on iPhone the IDFA, only if you allow tracking), your IP address, device model, operating system, language, approximate location estimated from your IP address, and how you interact with ads.
 
-I may employ third-party companies and individuals due to the following reasons:
+- Personalized ads (when you agree): the partners may combine this with information from other apps and websites to show ads that suit your interests and to measure them.
+- Non-personalized ads (when you say no): the partners still use this information to show the ad, limit how often you see the same one, prevent fraud and count views, but not to build a profile of you.
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+**The ad partners process this information under their own privacy policies:**
 
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+- Unity Technologies (LevelPlay, ironSource Ads, Unity Ads, Unity Gaming Services): [https://unity.com/legal/game-player-and-app-user-privacy-policy](https://unity.com/legal/game-player-and-app-user-privacy-policy)
+- GameAnalytics ApS: [https://gameanalytics.com/privacy](https://gameanalytics.com/privacy)
 
-**Security**
+## 4. Why we use it, and our legal bases
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+- To run the game, keep your progress and purchases, and deliver what you buy (performance of our contract with you).
+- To show rewarded videos, keep them working, and prevent fraud (our legitimate interest in funding a free game).
+- Leaderboards, gameplay statistics, install source and personalized ads (your consent, which you can withdraw at any time).
 
-**Links to Other Sites**
+## 5. Selling and sharing
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+We do not sell your information for money. When you allow personalized ads, sharing your advertising ID and device information with ad partners may count as "selling" or "sharing" for targeted advertising under some US state laws (such as California's). Turning off "Personalized ads" in Settings opts you out.
 
-**Children’s Privacy**
+## 6. Your choices
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13\. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+- Settings > Personalized ads: turn personalized ads on or off at any time. Videos stay available either way.
+- iPhone: Settings > Privacy & Security > Tracking controls whether apps may ask to track you, and whether NumMerge may.
+- Android: Settings > Privacy > Ads (or Google > Ads) lets you reset or delete your advertising ID.
+- You can ask us for a copy of your information, or ask us to correct or delete it, by emailing [contact@funtownarcade.com](mailto:contact@funtownarcade.com). Include the player name from the main menu so we can find your records. We answer within 30 days.
+- Uninstalling the game removes everything stored on your device.
+- If you are in the EU, the UK or another place with similar laws, you may also object to our use of your information, and you can complain to your local data protection authority.
 
-**Changes to This Privacy Policy**
+## 7. Children
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+NumMerge is not directed at children under 13, and we do not knowingly collect personal information from them. The game asks your age before anything else; players who say they are under 16 get no leaderboards, statistics or ads. If you believe a child under 13 has given us personal information, email [contact@funtownarcade.com](mailto:contact@funtownarcade.com) and we will delete it.
 
-**Contact Us**
+## 8. Where it is stored, and for how long
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at advancedpachinko@gmail.com.
+Our service providers may process information in the United States and other countries. Where the law requires it, transfers are protected by standard contractual clauses or similar safeguards. We keep:
+
+- progress and purchase records while you play, and delete them when you ask;
+- leaderboard entries while the leaderboards run;
+- gameplay statistics for up to 2 years.
+
+Ad partners keep information as their own policies describe.
+
+## 9. Security
+
+Information is sent over encrypted connections and stored by our providers, who protect it with industry-standard measures.
+
+## 10. Changes
+
+If this policy changes, we will update the date above and show the new version in the game. If a change needs your consent, we will ask again.
+
+## 11. Contact
+
+Funtownarcade Games LLC
+
+Email: [contact@funtownarcade.com](mailto:contact@funtownarcade.com)
+
+Website: [https://funtownarcade.com](https://funtownarcade.com)
+
+This email is also our contact for privacy complaints and grievances, including under India's Digital Personal Data Protection Act.
