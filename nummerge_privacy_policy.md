@@ -23,7 +23,7 @@ NumMerge is a puzzle game made by Funtownarcade Games LLC ("we", "us"). We are t
 
 If you are 16 or older and tap "No thanks", leaderboards and gameplay statistics stay off. Rewarded videos are still available but are not personalized.
 
-If you tell us you are under 16, leaderboards, gameplay statistics and ads are all off. Only the anonymous player ID, Cloud Save and Remote Config described above are used.
+If you tell us you are under 16, leaderboards, gameplay statistics and ads are all off. Only the anonymous player ID, Cloud Save and Remote Config described above are used, plus purchase receipts if you buy something (section 2).
 
 We never ask for your name, email address, phone number, contacts, photos or precise location.
 
@@ -38,10 +38,10 @@ NumMerge shows only rewarded videos that you choose to watch, for example for ex
 - Personalized ads (when you agree): the partners may combine this with information from other apps and websites to show ads that suit your interests and to measure them.
 - Non-personalized ads (when you say no): the partners still use this information to show the ad, limit how often you see the same one, prevent fraud and count views, but not to build a profile of you.
 
-**The ad partners process this information under their own privacy policies:**
+**Our partners process this information under their own privacy policies:**
 
 - Unity Technologies (LevelPlay, ironSource Ads, Unity Ads, Unity Gaming Services): [https://unity.com/legal/game-player-and-app-user-privacy-policy](https://unity.com/legal/game-player-and-app-user-privacy-policy)
-- GameAnalytics ApS: [https://gameanalytics.com/privacy](https://gameanalytics.com/privacy)
+- GameAnalytics ApS (gameplay statistics, processed on our behalf): [https://www.gameanalytics.com/trust/privacy-faq](https://www.gameanalytics.com/trust/privacy-faq)
 
 ## 4. Why we use it, and our legal bases
 
@@ -51,11 +51,11 @@ NumMerge shows only rewarded videos that you choose to watch, for example for ex
 
 ## 5. Selling and sharing
 
-We do not sell your information for money. When you allow personalized ads, sharing your advertising ID and device information with ad partners may count as "selling" or "sharing" for targeted advertising under some US state laws (such as California's). Turning off "Personalized ads" in Settings opts you out.
+We do not sell your information for money. When you allow personalized ads, sharing your advertising ID and device information with ad partners may count as "selling" or "sharing" for targeted advertising under some US state laws (such as California's). Turning off "Personalized ads" in NumMerge's Settings opts you out.
 
 ## 6. Your choices
 
-- Settings > Personalized ads: turn personalized ads on or off at any time. Videos stay available either way.
+- In NumMerge, open Settings > Personalized ads to turn personalized ads on or off at any time. Videos stay available either way.
 - iPhone: Settings > Privacy & Security > Tracking controls whether apps may ask to track you, and whether NumMerge may.
 - Android: Settings > Privacy > Ads (or Google > Ads) lets you reset or delete your advertising ID.
 - You can ask us for a copy of your information, or ask us to correct or delete it, by emailing [contact@funtownarcade.com](mailto:contact@funtownarcade.com). Include the player name from the main menu so we can find your records. We answer within 30 days.
