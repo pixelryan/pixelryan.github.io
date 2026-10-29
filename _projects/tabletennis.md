@@ -7,7 +7,7 @@ importance: 5
 category: professional
 ---
 
-As the lead QA for "Rockstar Presents: Table Tennis," I was pivotal in 'finding the fun' through focus group testing and enhancing test automation in collaboration with programmers. This strategic shift allowed testers to concentrate on more meaningful tests. My role included maintaining close communication with the producer, ensuring we met Microsoft's certification requirements for a smooth Xbox 360 launch. Our success in QA was integral to the game being part of the console's celebrated release lineup.
+As QA lead on Rockstar Presents Table Tennis, the first game built on Rockstar's RAGE engine, I led 15 QA analysts and two remote teams. I ran technical testing on the engine, running automated tests and reporting results, and worked with programmers to build automated load tests that saved the team a lot of time and freed testers for more meaningful work. I hosted playtests in the QA lab, gave the designers balance feedback, and worked closely with the producer to meet Microsoft's certification requirements for a smooth Xbox 360 launch.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

@@ -7,9 +7,9 @@ importance: 4
 category: professional
 ---
 
-As Assistant Project Manager for "Perfect Swing - Golf," I leveraged my diverse skill set to oversee the final stages of development, launch plans, and subsequent updates and live ops. This role was pivotal in orchestrating the game's successful launch, community building, and feature updates that resonated with our audience.
+As Assistant Project Manager on Perfect Swing - Golf, a real-time multiplayer golf game for iOS and Android, I oversaw the final stages of development, the worldwide launch, and the live ops and updates that followed.
 
-During the game's critical launch phase, I meticulously managed the rollout, keeping track of updates and effectively communicating with our growing community. I was instrumental in setting up the Customer Service (CS) system, selecting and implementing the ticketing system, and training CS representatives across different time zones for round-the-clock coverage. This not only enhanced our user support but also fostered a robust relationship with our players.
+During launch, I managed the rollout, tracked updates, and kept our growing community informed. I set up customer service from scratch: I chose and implemented the ticketing system and trained support staff across time zones for round-the-clock coverage.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -28,9 +28,9 @@ During the game's critical launch phase, I meticulously managed the rollout, kee
     </div>
 </div>
 
-My responsibilities extended to gathering insightful data from Google Firebase, which informed the development of new features. App Store Optimization (ASO) became a significant part of my role, managing our presence in the app stores and securing features on both Android and Apple platforms, amplifying our visibility and reach.
+I pulled player data from Google Firebase to shape new features, and ran App Store Optimization, earning featured placements on both the App Store and Google Play.
 
-Collaborating with translation teams and engineers, I managed the implementation of 12 different languages, ensuring a seamless and inclusive experience for players worldwide. Under my oversight, the Quality Assurance (QA) processes were streamlined, enhancing the game's stability and performance.
+I worked with translators and engineers to ship the game in 12 languages, and ran QA sign-off, managing a remote QA team to keep each release stable.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">

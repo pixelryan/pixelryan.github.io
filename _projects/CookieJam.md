@@ -7,7 +7,7 @@ importance: 2
 category: professional
 ---
 
-On the mega-hit Cookie Jam, I designed engaging levels that balanced difficulty and encouraged player experimentation, resulting in increased purchases and player retention. For the launch of Cookie Jam Blast, I iterated on mechanics and crafted early levels that tutorialized the new modes in the sequel. As a level tuner, I conducted thorough final reviews of a team of designers levels to ensure reliable and timely delivery of weekly content updates to millions of players.
+On Cookie Jam, I designed levels that balanced difficulty and encouraged players to experiment, which increased purchases and retention. For the launch of Cookie Jam Blast, I iterated on mechanics and built the early levels that teach the sequel's new modes. As a level tuner, I mentored a team of five level designers and gave final review on their levels, so weekly content updates reached millions of players on time.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -26,7 +26,7 @@ On the mega-hit Cookie Jam, I designed engaging levels that balanced difficulty 
     </div>
 </div>
 
-I was particularly proud to have streamlined repetitive design team tasks through the programming of Google Sheet formulas, allowing the team to spend more time focused on creating fun levels with just the right difficulty. I also developed design specifications for live event features and worked with cross-disciplinary teams throughout development and deployment on new systems that boosted KPIs and enhanced player engagement.
+I also wrote Google Sheets formulas that automated repetitive design tasks, giving the team more time to make fun levels with the right difficulty. I wrote design specs for new live event features and worked with engineers day to day to build them, including a race event where players compete to reach the top of a leaderboard for a prize.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">

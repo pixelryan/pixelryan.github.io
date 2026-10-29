@@ -24,19 +24,19 @@
       "position": "Founder & Game Designer",
       "url": "https://funtownarcade.com",
       "startDate": "2026-09-01",
-      "summary": "Independent studio in Washington State. Released Caveman Runner 2.0 for iPhone; developing NumMerge (planned November 2026), Treasure Drop, Every Card Counts Solitaire, and Hexa.",
+      "summary": "Independent studio in Washington State. Released Caveman Runner 2.0 for iPhone and Treasure Drop on Google Play, running an open playtest of Slippery Delivery on Roblox, and developing NumMerge (planned November 2026), Every Card Counts Solitaire, and Hexa.",
       "highlights": ["Studio Founder", "Game Design", "Unity", "Live Games"]
     },
     {
       "name": "Freelance",
       "position": "Unity Developer & Project Lead",
       "startDate": "2021-07-01",
-      "summary": "Led mobile game and interactive fitness projects end to end, from client requirements and scope through documentation, timelines, and delivery, including a polished mobile puzzle game with online features.",
+      "summary": "Led client projects end to end, from requirements and scope through documentation, timelines, and delivery. For Xpriential's treadmill workout platform, built multi-mile street-race environments recreated from real city streets, plus Unity editor tools that let the team build new locations quickly. Also delivered a polished mobile puzzle game with online features.",
       "highlights": ["Unity", "Project Management", "Client Work"]
     },
     {
       "name": "ESTsoft Inc. \u00b7 Perfect Swing - Golf",
-      "position": "Project Manager / Assistant Project Manager",
+      "position": "Assistant Project Manager, Live Ops & Global Launch",
       "url": "https://perfectswing.playthisgame.com/en",
       "startDate": "2019-12-01",
       "endDate": "2021-07-01",
@@ -49,7 +49,7 @@
       "url": "https://www.mobilityware.com",
       "startDate": "2017-11-01",
       "endDate": "2019-02-01",
-      "summary": "Designed levels, modes, and obstacles in Unity for a match-3 puzzle game and championed seasonal events and a mission system that helped double the game's revenue. Managed a team of five.",
+      "summary": "Designed levels, modes, and obstacles in Unity for a match-3 puzzle game, introduced live events with a seasonal event and mission system, and set level design and tuning best practices for the team.",
       "highlights": ["Level Design", "Live Ops", "Unity"]
     },
     {
@@ -58,16 +58,16 @@
       "url": "https://www.jamcity.com",
       "startDate": "2016-03-01",
       "endDate": "2017-11-01",
-      "summary": "Designed and tuned match-3 levels for Cookie Jam and Cookie Jam Blast, delivering weekly content to millions of players and writing specs for live event features that boosted KPIs.",
+      "summary": "Designed and tuned match-3 levels for Cookie Jam and Cookie Jam Blast, delivering weekly content to millions of players. Mentored a team of five level designers, wrote specs for new live event features, and worked with engineers day to day to build them, including a leaderboard race event.",
       "highlights": ["Level Design", "Tuning", "Live Events"]
     },
     {
-      "name": "BrickLink (The LEGO Group)",
+      "name": "BrickLink",
       "position": "QA Manager",
       "url": "https://www.bricklink.com",
       "startDate": "2014-07-01",
       "endDate": "2016-03-01",
-      "summary": "Managed quality for a global LEGO marketplace with 400,000 users and 9,000 active stores, including test plans, cross-browser and mobile testing, and Selenium automation.",
+      "summary": "Managed quality for an online LEGO marketplace with 400,000 users and 9,000 active stores, including test plans for the inventory system, catalog, and storefront, cross-browser and mobile testing, and Selenium automation.",
       "highlights": ["QA Management", "Test Automation", "eCommerce"]
     },
     {
@@ -80,11 +80,11 @@
     },
     {
       "name": "Zynga \u00b7 FarmVille & Caf\u00e9 World",
-      "position": "QA Project Lead / Quality Engineer II",
+      "position": "Quality Engineer II",
       "url": "https://www.zynga.com",
       "startDate": "2011-03-01",
       "endDate": "2011-11-01",
-      "summary": "Led QA for all Caf\u00e9 World content releases to over 2 million daily players and managed localization testing for FarmVille. Voted \"Chef of the Week\" by the team.",
+      "summary": "Led QA for Caf\u00e9 World content releases and new features for over 2 million daily players, coordinating with external QA teams and partner studios. Ran localization testing for FarmVille, working with external translators and QA teams. Voted \"Chef of the Week\" by the team.",
       "highlights": ["QA Leadership", "Localization", "Live Games"]
     },
     {
@@ -102,8 +102,8 @@
       "url": "https://www.rockstargames.com/games/tabletennis",
       "startDate": "2005-05-01",
       "endDate": "2006-07-01",
-      "summary": "Directed 15 QA analysts and two remote teams, ran Microsoft certification assessments for the Xbox 360 launch, and supported focus group testing.",
-      "highlights": ["QA Leadership", "Certification"]
+      "summary": "Led 15 QA analysts and two remote teams on the first game built on Rockstar's RAGE engine. Ran technical testing and automated tests on the engine, worked with programmers to build automated load tests, hosted playtests and gave designers balance feedback, and ran Microsoft certification for the Xbox 360 launch.",
+      "highlights": ["QA Leadership", "Test Automation", "Certification"]
     },
     {
       "name": "Rockstar San Diego \u00b7 Midnight Club 3: Dub Edition",
@@ -111,7 +111,7 @@
       "url": "https://www.rockstargames.com/games/midnightclub3",
       "startDate": "2004-07-01",
       "endDate": "2005-05-01",
-      "summary": "Found and documented gameplay, crash, and multiplayer bugs, and tracked Sony's Technical Certification Requirements through sign-off.",
+      "summary": "QA on an open-world street racer with online multiplayer, including team capture-the-flag and elimination race modes. Found and documented gameplay, crash, and multiplayer bugs, and tracked Sony's Technical Certification Requirements through sign-off.",
       "highlights": ["QA", "Certification"]
     }
   ],
@@ -194,6 +194,19 @@
       "summary": "A puzzle game about chaining numbered balls in order to merge them. Planned for the App Store and Google Play in November 2026.",
       "highlights": ["Game Design", "UI", "C#", "Prototyping"],
       "startDate": "2024-03-15"
+    },
+    {
+      "name": "Treasure Drop",
+      "url": "https://play.google.com/store/apps/details?id=com.funtownarcade.treasuredrop",
+      "summary": "A pachinko-style ball-drop arcade game, out now on Google Play.",
+      "highlights": ["Game Design", "Android", "Unity"],
+      "startDate": "2026-09-01"
+    },
+    {
+      "name": "Slippery Delivery",
+      "summary": "A momentum-based delivery racer, in open playtest on Roblox.",
+      "highlights": ["Game Design", "Roblox"],
+      "startDate": "2026-09-01"
     },
     {
       "name": "Guess Quest",

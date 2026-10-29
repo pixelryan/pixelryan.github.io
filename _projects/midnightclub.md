@@ -7,7 +7,7 @@ importance: 6
 category: professional
 ---
 
-Breaking into the gaming industry as QA for "Midnight Club 3: Dub Edition," I quickly learned the dedication and hard work needed to succeed. The game's complexity, especially within its elaborate multiplayer modes like capture the flag, required extensive testing and overtime. Interestingly, "cruise" mode, which allowed players to freely roam—a precursor to the open-world experience later popularized by GTA Online—emerged as a fan favorite.
+I broke into the industry as a QA tester on Midnight Club 3: Dub Edition, an open-world street racer with online multiplayer, and quickly learned the dedication the work takes. Its multiplayer modes, from team-based capture the flag to several kinds of elimination races, needed extensive testing and plenty of overtime. The surprise was Cruise mode: players loved free-roaming the city together more than any of the structured modes.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

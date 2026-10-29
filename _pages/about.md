@@ -26,7 +26,8 @@ Those two worlds taught me two ways to push the limits. At Rockstar, I learned t
 
 - **[Caveman Runner 2.0](https://apps.apple.com/app/id418102156)** is out now for iPhone. The 2011 original, rebuilt for today's hardware.
 - **NumMerge**, a number-chaining puzzle game, is planned for the App Store and Google Play in November 2026.
-- **Treasure Drop**, **Every Card Counts Solitaire**, and **Hexa** are in development at [Funtownarcade](https://funtownarcade.com).
+- **Treasure Drop**, a pachinko-style ball-drop game, is out now on Google Play, and **Slippery Delivery** is in open playtest on Roblox.
+- **Every Card Counts Solitaire** and **Hexa** are in development at [Funtownarcade](https://funtownarcade.com).
 
 ### Explore
 
