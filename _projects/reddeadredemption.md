@@ -7,9 +7,7 @@ importance: 1
 category: professional
 ---
 
-In my role as a technical designer for the critically acclaimed Red Dead Redemption, I specialized in ambient design, shaping the open world's dynamic and immersive environment. As the primary designer utilizing the game’s in-house state machine tool, I became the central figure in orchestrating all animations for various game elements—ranging from player controls and AI behaviors to mission-specific animations and multiplayer features.
-
-That meant building the player's state machine, including adding new weapons; the multiplayer modes; the minigames; unique animation moments for story missions; and the ambient life of the open world.
+In my role as a technical designer for the critically acclaimed Red Dead Redemption, I specialized in ambient design, shaping the open world's dynamic and immersive environment. Using the game’s in-house state machine tool, I built many of its animation state machines, mostly for the NPCs and animals that fill the world, along with some for the player.
 
 Working closely with animation programmers and engineers, I facilitated necessary modifications to the state machine tool to support our ambitious design goals. I engineered complex state machines that controlled the natural actions of animals and the daily routines of NPCs, such as bartenders and blacksmiths. These characters interacted seamlessly with world props, triggering sounds and particle effects, engaging in their tasks with a high level of realism. My focus was on eliminating animation pops, ensuring that every movement was fluid and perfectly aligned with the physical elements of the game environment.
 
