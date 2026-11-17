@@ -2,7 +2,7 @@
 
 _The official, always-current version of this policy is at [https://funtownarcade.com/nummergeprivacy](https://funtownarcade.com/nummergeprivacy)._
 
-_Last updated: November 15, 2026_
+_Last updated: November 17, 2026_
 
 NumMerge is a puzzle game made by Funtownarcade Games LLC ("we", "us"). We are the controller of the information described here. This policy explains what the game collects, why, who we share it with, and the choices you have.
 
@@ -24,6 +24,7 @@ NumMerge is a puzzle game made by Funtownarcade Games LLC ("we", "us"). We are t
 - Leaderboard scores, saved with the player name the game gives you (for example "WavySingingFlamingo"). You cannot type your own name, so no real name is shown.
 - Gameplay statistics, through GameAnalytics: levels started, won and lost, boosters used, stars earned and spent, ads watched, purchases made in the game, and session length. These come with device information: device model, operating system, language, country (estimated from your IP address), and device or advertising identifiers.
 - Install source (Android). The game reads the Google Play Install Referrer once to learn which store page or ad campaign the install came from, and records only that channel with the statistics above.
+- Install source (iPhone). The game asks Apple's ad attribution service once whether the install came from an Apple Ads campaign, and records only that answer with the statistics above.
 - Personalized ads. See section 3.
 
 If you turn gameplay statistics and leaderboards off, they stay off. If you turn personalized ads off, rewarded videos are still available but are not personalized.
