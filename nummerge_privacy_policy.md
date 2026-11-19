@@ -2,7 +2,7 @@
 
 _The official, always-current version of this policy is at [https://funtownarcade.com/nummergeprivacy](https://funtownarcade.com/nummergeprivacy)._
 
-_Last updated: November 17, 2026_
+_Last updated: November 19, 2026_
 
 NumMerge is a puzzle game made by Funtownarcade Games LLC ("we", "us"). We are the controller of the information described here. This policy explains what the game collects, why, who we share it with, and the choices you have.
 
@@ -22,7 +22,7 @@ NumMerge is a puzzle game made by Funtownarcade Games LLC ("we", "us"). We are t
 **When gameplay statistics and leaderboards are on (16 or older only):**
 
 - Leaderboard scores, saved with the player name the game gives you (for example "WavySingingFlamingo"). You cannot type your own name, so no real name is shown.
-- Gameplay statistics, through GameAnalytics: levels started, won and lost, boosters used, stars earned and spent, ads watched, purchases made in the game, and session length. These come with device information: device model, operating system, language, country (estimated from your IP address), and device or advertising identifiers.
+- Gameplay statistics, through GameAnalytics and PostHog: levels started, won and lost, boosters used, stars earned and spent, ads watched, purchases made in the game, and session length, with a random ID the game makes on your device. These come with device information: device model, operating system, language, country (estimated from your IP address), and device or advertising identifiers.
 - Install source (Android). The game reads the Google Play Install Referrer once to learn which store page or ad campaign the install came from, and records only that channel with the statistics above.
 - Install source (iPhone). The game asks Apple's ad attribution service once whether the install came from an Apple Ads campaign, and records only that answer with the statistics above.
 - Personalized ads. See section 3.
@@ -48,6 +48,7 @@ NumMerge shows only rewarded videos that you choose to watch, for example for ex
 
 - Unity Technologies (LevelPlay, ironSource Ads, Unity Ads, Unity Gaming Services): [https://unity.com/legal/game-player-and-app-user-privacy-policy](https://unity.com/legal/game-player-and-app-user-privacy-policy)
 - GameAnalytics ApS (gameplay statistics, processed on our behalf): [https://www.gameanalytics.com/trust/privacy-faq](https://www.gameanalytics.com/trust/privacy-faq)
+- PostHog Inc. (gameplay statistics, processed on our behalf and stored in the EU): [https://posthog.com/privacy](https://posthog.com/privacy)
 
 ## 4. Why we use it, and our legal bases
 
@@ -64,7 +65,7 @@ We do not sell your information for money. When you allow personalized ads, shar
 - In NumMerge, open Settings > Privacy to change your age group and turn gameplay statistics and leaderboards, and personalized ads, on or off at any time. Videos stay available either way. Turning something off stops it from then on; it does not delete what was already collected.
 - iPhone: Settings > Privacy & Security > Tracking controls whether apps may ask to track you, and whether NumMerge may.
 - Android: Settings > Privacy > Ads (or Google > Ads) lets you reset or delete your advertising ID.
-- You can ask us for a copy of your information, or ask us to correct or delete it, by emailing [contact@funtownarcade.com](mailto:contact@funtownarcade.com), or by tapping "Delete my data" in Settings > Privacy, which writes the email for you with your player name and ID and turns gameplay statistics off. We answer within 30 days.
+- You can ask us for a copy of your information, or ask us to correct or delete it, by emailing [contact@funtownarcade.com](mailto:contact@funtownarcade.com), or by tapping "Delete my data" in Settings > Privacy, which writes the email for you with your player name and IDs and turns gameplay statistics off. We answer within 30 days.
 - Uninstalling the game removes everything stored on your device.
 - If you are in the EU, the UK or another place with similar laws, you may also object to our use of your information, and you can complain to your local data protection authority.
 
