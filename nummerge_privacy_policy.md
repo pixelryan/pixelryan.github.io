@@ -2,7 +2,7 @@
 
 _The official, always-current version of this policy is at [https://funtownarcade.com/nummergeprivacy](https://funtownarcade.com/nummergeprivacy)._
 
-_Last updated: November 19, 2026_
+_Last updated: November 24, 2026_
 
 NumMerge is a puzzle game made by Funtownarcade Games LLC ("we", "us"). We are the controller of the information described here. This policy explains what the game collects, why, who we share it with, and the choices you have.
 
@@ -10,8 +10,9 @@ NumMerge is a puzzle game made by Funtownarcade Games LLC ("we", "us"). We are t
 
 **For every player, to run the game:**
 
-- An anonymous player ID. Unity Gaming Services signs you in anonymously and creates a random ID. It is not linked to your name, email or phone number.
-- Your progress and purchases. Stars, boosters, skins, levels and the records of what you bought are saved with Unity Cloud Save, so a reinstall doesn't lose them.
+- A player ID. Unity Gaming Services signs you in and creates a random ID. It is not linked to your name, email or phone number. To help you find your save again after a reinstall or on a new phone, the game also makes a random sign-in key and keeps it in your phone's secure storage (the iPhone Keychain or Google's Block Store), which your phone may back up to your Apple or Google account.
+- Your progress and purchases. Your whole game (levels, stars, skins, boosters, settings and the records of what you bought) is saved with Unity Cloud Save, to help you get it back after a reinstall or on a new phone.
+- Sign in with Apple or Google (optional). If you tap Continue with Apple or Continue with Google in Settings, Apple or Google gives Unity a private ID for your account so your save can follow you to any phone. We don't ask for your name or email.
 - Game settings. Unity Remote Config sends the game its current settings (for example prices and level tuning). To do this it receives your player ID, app version and basic device information.
 
 **How you choose:**
@@ -29,7 +30,7 @@ NumMerge is a puzzle game made by Funtownarcade Games LLC ("we", "us"). We are t
 
 If you turn gameplay statistics and leaderboards off, they stay off. If you turn personalized ads off, rewarded videos are still available but are not personalized.
 
-If you tell us you are under 16, leaderboards and gameplay statistics are off, and the rewarded videos you choose to watch are child-safe and never personalized (we ask our ad partners to treat you as a child). Otherwise only the anonymous player ID, Cloud Save and Remote Config described above are used, plus purchase receipts if you buy something (section 2).
+If you tell us you are under 16, leaderboards and gameplay statistics are off, and the rewarded videos you choose to watch are child-safe and never personalized (we ask our ad partners to treat you as a child). Otherwise only the player ID and sign-in key, Cloud Save and Remote Config described above are used, plus purchase receipts if you buy something (section 2).
 
 We never ask for your name, email address, phone number, contacts, photos or precise location.
 
@@ -66,7 +67,7 @@ We do not sell your information for money. When you allow personalized ads, shar
 - iPhone: Settings > Privacy & Security > Tracking controls whether apps may ask to track you, and whether NumMerge may.
 - Android: Settings > Privacy > Ads (or Google > Ads) lets you reset or delete your advertising ID.
 - You can ask us for a copy of your information, or ask us to correct or delete it, by emailing [contact@funtownarcade.com](mailto:contact@funtownarcade.com), or by tapping "Delete my data" in Settings > Privacy, which writes the email for you with your player name and IDs and turns gameplay statistics off. We answer within 30 days.
-- Uninstalling the game removes everything stored on your device.
+- Uninstalling the game removes everything stored on your device except the sign-in key, which your phone may keep so your save can be found again. Your cloud save stays until you ask us to delete it.
 - If you are in the EU, the UK or another place with similar laws, you may also object to our use of your information, and you can complain to your local data protection authority.
 
 ## 7. Children
